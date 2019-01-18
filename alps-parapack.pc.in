@@ -1,0 +1,6 @@
+Name: alps-parapack
+Description: alps-parapack
+Requires: boost alps-utilities
+Version: 
+Libs: -L@CMAKE_INSTALL_PREFIX@/lib
+Cflags: -I@CMAKE_INSTALL_PREFIX@/include
